@@ -1,0 +1,29 @@
+article {
+    text-align: center;
+    background-color: aquamarine;
+    border-style: solid;
+    padding-block: 4px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: grey;
+}
+
+header {
+    text-align: center;
+    color: greenyellow;
+}
+
+s {
+    color: red;
+    
+}
+
+.button {
+    font-style: italic;
+    background-color: silver;
+}
